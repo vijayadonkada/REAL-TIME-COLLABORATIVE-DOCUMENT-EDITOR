@@ -25,3 +25,5 @@ This project is not only technically rich but also highly relevant in today's di
 Overall, the Real-Time Collaborative Document Editor serves as a comprehensive learning project and a solid foundation for more complex collaborative applications. It showcases the power of combining modern web technologies to build seamless, responsive, and interactive real-time systems. Whether used in a learning environment or as the base for a commercial tool, this project demonstrates critical development skills that are essential in the world of full-stack web application development.
 
 **OUTPUT**    :
+
+![Image](https://github.com/user-attachments/assets/6a68634a-cea4-46c5-a16c-bfea9c06c30e)
